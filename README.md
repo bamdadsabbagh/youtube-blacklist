@@ -1,6 +1,6 @@
 # youtube-blacklist
 
-## iridirum
+## iridium
 
 version `0.2.5`
 
